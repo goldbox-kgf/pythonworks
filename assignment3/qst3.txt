@@ -1,0 +1,1 @@
+write a python file to count the words in the text file

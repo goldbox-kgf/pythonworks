@@ -1,0 +1,5 @@
+year=int(input("enter the year:"))
+
+not_centuary=year%100
+
+print(not_centuary!=0)
